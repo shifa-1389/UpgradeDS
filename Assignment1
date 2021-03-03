@@ -1,1 +1,25 @@
+Q1=>
+x=int(input(" "))
+y=int(input(" "))
+print(x+y)
+print(x-y)
+print(x*y)
+print(x//y)
+
+OUTPUT: 60
+ 30
+90
+30
+1800
+2
+Q2=>
+x1=int(input(" "))
+y1=int(input(" "))
+print(x1**y1)
+
+OUTPUT:
+
+2
+3
+8
 
